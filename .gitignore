@@ -1,0 +1,7 @@
+# parking-lot
+build/
+.gradle/
+
+*.class
+*.jar
+*.war
